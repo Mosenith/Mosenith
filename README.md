@@ -71,4 +71,7 @@ _- Currently working at Simpaz Corporation as an Intern Full Stack Developer_
     <a href="https://github.com/Mosenith">
         <img align="center" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
+    <a href="https://mosenith.github.io/">
+        <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="Portfolio" />
+    </a>
 </p>
